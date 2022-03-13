@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.76);
+ 
+}
+body{
+    background-color: rgba(199, 182, 159, 0.034);
+}
+body h6{
+    color: rgba(36, 34, 34, 0.472);
+}
+
+.mybtn{
+    background-color: orange;
+    color: #fff;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.imgsize{
+    width: 50px;
+    display: block;
+    margin: 0 auto;
+}
+header{
+    background: linear-gradient(rgba(221, 209, 182, 0.226) 10%, white 90%);
+    height: 800px;
+}
+.top-area{
+    padding: 60px 25px;
+}
+.container-fluid {
+    padding: 18px 70px;
+
+}
+.navbar-collapse ul{   
+    padding-left: 170px;
+    
+}
+.box-area{
+    height: 600px;
+    
+  
+}
+.box-area .card{
+  
+    box-shadow: 5px 5px 5px 5px rgba(119, 109, 109, 0.616);
+  
+    
+}
+.top-area2{
+    background: linear-gradient(white 10%, rgba(221, 209, 182, 0.226) 80%);
+    height: 750px;
+    
+}
+.photosize{
+    width: 100px;
+    border-radius: 100%;
+    display: block;
+    margin-left: 40px;
+}
+/* .text-center{
+    
+} */
+.ending a{
+    text-decoration: none;
+    /* color: black; */
+    list-style: none;
+}
+.four-box{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.top-area5{
+    height: 650px;
+}
